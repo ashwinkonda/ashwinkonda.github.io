@@ -282,7 +282,7 @@ a.active {
 ==================================================*/
 
 #home {
-    background: url(../img/GoldenGateBridge.jpeg);
+    background: url(../img/home-bg-2.jpg);
     background-size: cover;
     height: 100vh;
 }
@@ -305,7 +305,7 @@ a.active {
     padding: 100px 0;
 }
 
-.GoldenGateBridge-div img {
+.home-bg-2-div img {
     margin: 0 auto;
 }
 
