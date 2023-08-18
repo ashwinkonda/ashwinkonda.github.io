@@ -282,7 +282,7 @@ a.active {
 ==================================================*/
 
 #home {
-    background: url(../img/beachpic.jpg);
+    background: url(../img/GoldenGateBridge.jpg);
     background-size: cover;
     height: 100vh;
 }
@@ -305,7 +305,7 @@ a.active {
     padding: 100px 0;
 }
 
-.beachpic-div img {
+.GoldenGateBridge-div img {
     margin: 0 auto;
 }
 
