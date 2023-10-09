@@ -63,11 +63,9 @@ h4:before {
     top: 9px;
 }
 
-p {
-    color: white;
-}
-
-
+.col-md-4.col-sm-6.photography p {
+        color: white;
+    }
 
 
 /* General
